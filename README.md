@@ -18,6 +18,8 @@ studies/          # Deep dive notes on AI leaders and thinkers
 repos/            # Cloned repos for deep code study
 ├── llm.c/        # Karpathy's LLM from scratch in pure C
 └── minGPT/       # Karpathy's minimal GPT in PyTorch
+├── nanoGPT/      # Karpathy's GPT in PyTorch (more complete)
+└── hermes-agent/ # Nous Research's self-improving agent (97k stars)
 
 frameworks/       # Framework explorations (LangChain, AutoGPT, etc.)
 people/           # Leader profiles and notes
@@ -35,6 +37,7 @@ See [MISSION.md](./MISSION.md) for the full roadmap and 12-week plan.
 - [Garry Tan Study](./studies/tan/)
 - [Sebastian Raschka Study](./studies/raschka/)
 - [Jeremy Howard Study](./studies/howard/)
+- [Hermes Agent Study](./studies/hermes-agent/) — Nous Research, self-improving agent
 
 ## Progress
 
