@@ -1,0 +1,16 @@
+name: Auto PR with Agentic
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  agentic-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Agentic PR Agent
+        run: echo "Agentic PR workflow triggered"
