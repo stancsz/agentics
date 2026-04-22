@@ -5,12 +5,13 @@
 
 ## Latest News
 
-<!-- NEWS_ENTRIES -->
+- [🎯 Agentic News to Watch](./agentic-news.html) — High-impact AI news for Agentic Architects (April 2026)
 
 ## Quick Navigation
 
 | Section | Description |
 |---------|-------------|
+| [🎯 Agentic News](./agentic-news.html) | Curated news for AI/ML Engineers |
 | [News](./news/) | Daily AI/Agentic updates |
 | [Studies](./studies/) | Deep dives on AI leaders |
 | [Repos](./repos/) | Cloned repos for code study |
